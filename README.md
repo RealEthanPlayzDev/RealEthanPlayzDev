@@ -14,7 +14,16 @@
 | BloxExecutor (BEv3) |
 | Meta Script Builder |
 | The Fun Mayhem: The Rise of the new Mayhem |
+| TouchBlocker |
+| Notification Builder |
 
 Are you looking for the source of BEv1? Then [click here](https://github.com/RealEthanPlayzDev/BEv1)
 
 Looking for TouchBlocker? [Click here to open the repository page](https://github.com/RealEthanPlayzDev/TouchBlocker)
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=RealEthanPlayzDev&count_private=true&show_icons=true" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RealEthanPlayzDev&layout=compact" />
+</a>
