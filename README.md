@@ -1,6 +1,3 @@
-### Hello there 👋
- Hello, I am Ethan, also known as RadiatedExodus/RadiatedExodusDev (previously known as RealEthanPlayz/RealEthanPlayzDev), I always watch hololive and anime, and I also have some programming knowledge, I usually stick with Lua and [Luau](https://luau-lang.org/)
-   
 | Programming Language | How good am I at it |
 | -------------------- | ------------------- |
 | Lua | 9/10 |
