@@ -19,8 +19,8 @@ Are you looking for the source of BEv1? Then [click here](https://github.com/Rea
 Looking for TouchBlocker? [Click here to open the repository page](https://github.com/RealEthanPlayzDev/TouchBlocker)
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats-sable-tau.vercel.app/api?username=RealEthanPlayzDev&count_private=true&show_icons=true" />
+  <img align="center" src="https://github-readme-stats-realethanplayzdev.vercel.app/api?username=RealEthanPlayzDev&count_private=true&show_icons=true" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats-sable-tau.vercel.app/api/top-langs/?username=RealEthanPlayzDev&layout=compact" />
+  <img align="center" src="https://github-readme-stats-realethanplayzdev.vercel.app/api/top-langs/?username=RealEthanPlayzDev&layout=compact" />
 </a>
