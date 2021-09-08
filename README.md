@@ -13,6 +13,7 @@
 | [TouchBlocker](https://github.com/RealEthanPlayzDev/TouchBlocker) |
 | Notification Builder |
 | [LibUsefulUtility](https://github.com/RealEthanPlayzDev/Rblx-LibUsefulUtil/) |
+| [Maze Generation](https://www.roblox.com/games/7425009431/Maze-Generation) |
 
 Are you looking for the source of BEv1? Then [click here](https://github.com/RealEthanPlayzDev/BEv1)
 
