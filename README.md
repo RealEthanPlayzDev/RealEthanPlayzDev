@@ -30,8 +30,8 @@ Looking for TouchBlocker? [Click here to open the repository page](https://githu
 
 ## GitHub Analytics
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats-realethanplayzdev.vercel.app/api?username=RealEthanPlayzDev&count_private=true&show_icons=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=RealEthanPlayzDev&count_private=true&show_icons=true" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats-realethanplayzdev.vercel.app/api/top-langs/?username=RealEthanPlayzDev&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RealEthanPlayzDev&layout=compact" />
 </a>
