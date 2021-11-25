@@ -4,11 +4,13 @@
 I am RadiatedExodus, also known as RealEthanPlayz, RealEthanPlayzDev, or ItzEthanPlayz_YT. I like to discover new things (and being lazy in the same time, hoping for that to even change), my first learned language is Lua.
 
 ## Known languages
-![Lua](https://img.shields.io/badge/Lua-%2300599C.svg?style=for-the-badge&logo=lua&logoColor=white)
-![Luau](https://img.shields.io/badge/Luau-%2300599C.svg?style=for-the-badge&logo=luau&logoColor=white)
-![Python](https://img.shields.io/badge/Python-%2300599C.svg?style=for-the-badge&logo=python&logoColor=white)
+![Lua](https://img.shields.io/badge/Lua-blue.svg?style=for-the-badge&logo=lua&logoColor=white)
+![Luau](https://img.shields.io/badge/Luau-blue.svg?style=for-the-badge&logo=luau&logoColor=white)
+![Python](https://img.shields.io/badge/Python-blue.svg?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow.svg?style=for-the-badge&logo=javascript&logoColor=white)
+![Java](https://img.shields.io/badge/Java-orange.svg?style=for-the-badge&logo=java&logoColor=white)
 
-Additional known languages but with lesser knowledge about it: C, C#, C++, Java, JavaScript
+Additional known languages but with lesser knowledge about it: C, C#, C++
 
 ## Projects
 | Current Projects |
@@ -25,8 +27,8 @@ Are you looking for the source of BEv1? Then [click here](https://github.com/Rea
 Looking for TouchBlocker? [Click here to open the repository page](https://github.com/RealEthanPlayzDev/TouchBlocker)
 
 ## Code editors
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-%230078d7.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-%235C2D91.svg?style=for-the-badge&logo=visualstudio&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-blue.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-purple.svg?style=for-the-badge&logo=visualstudio&logoColor=white)
 
 ## GitHub Analytics
 <a href="https://github.com/anuraghazra/github-readme-stats">
