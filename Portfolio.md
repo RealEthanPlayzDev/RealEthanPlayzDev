@@ -141,8 +141,7 @@ An (unefficient) module for generating stars on a set of Vector3(s)/number(s) an
 
 ## Availability
 + I may unfortunately refuse if the commision is too large or too hard.
-+ You must pay half of the agreed price first, then if you are satisfied after the work is done, you must pay me first and then I will send the work.
-+ I only accept group payments. Gamepass is also an option however you must also pay the tax (if you do choose the gamepass option you will have to pick between paying the full price at start or half price). **I DO NOT ACCEPT PAYMENT TYPES THAT USES REAL LIFE MONEY VALUE SUCH AS USD**
++ I only accept group payments, t-shirt, and gamepass. (KEEP IN MIND YOU HAVE TO ALSO PAY THE TAX) **I DO NOT ACCEPT PAYMENT TYPES THAT USES REAL LIFE MONEY VALUE SUCH AS USD**
 + Keep in mind that I cannot work if I have exams or important matters, you will have to wait until I finish those matters if they do happen.
 
 On weekdays, I am available for atleast 1-2 hours of work (if nothing is interrupting me)
@@ -154,11 +153,15 @@ Timezone: WIB (Waktu Indonesia Barat/Western Indonesian Time)
 ## Payment
 **Paying first before you tell me does not mean you have reserved a slot, I reccomend telling me first before paying.**
 
-Prices can range from 10 robux - 75 robux. Prices will vary depending on the work and can be higher than 75 if the requested work is complicated.
+Prices can range from 15 robux - 75 robux. Prices will vary depending on the work and can be higher than 75 if the requested work is complicated.
 
 ## Contact
-You can contact me via Discord or DevForum Direct Messages.
+You can contact me via Discord, DevForum Direct Messages, or message me at Roblox directly.
 
 **Important note about contacting from Discord: Please notify me first if you are contacting from Discord, along with your Discord username with tag.**
 
 Discord: ```.イーサン#6627```
+
+DevForum: https://devforum.roblox.com/u/itzethanplayz_yt/summary
+
+Roblox profile: https://www.roblox.com/users/124648395/profile
