@@ -1,6 +1,7 @@
 [Check my talent hub page!](https://talent.roblox.com/creators/124648395)
 
 Status: **Open**
+
 Reserved slots: 1 out of 2
 
 ![Untitled240_20210912204736|690x233, 75%](https://raw.githubusercontent.com/RealEthanPlayzDev/RealEthanPlayzDev/main/RobloxPortfolioAssets/BannerV1.png)
