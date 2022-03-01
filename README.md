@@ -13,6 +13,7 @@ Additional known languages but with lesser knowledge about it: C, C#, C++, TypeS
 # Projects
 | Current Projects                                                                                |
 | ----------------------------------------------------------------------------------------------- |
+| [Meteorium](https://github.com/RealEthanPlayzDev/Meteorium)                                     |
 | [Meta Script Builder](https://www.roblox.com/games/6588310761/MAJOR-UPDATE-Meta-Script-Builder) |
 | The Fun Mayhem: The Rise of the new Mayhem                                                      |
 | [TouchBlocker](https://github.com/RealEthanPlayzDev/TouchBlocker)                               |
