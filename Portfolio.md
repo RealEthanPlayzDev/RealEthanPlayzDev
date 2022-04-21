@@ -153,7 +153,7 @@ Timezone: WIB (Waktu Indonesia Barat/Western Indonesian Time)
 ## Payment
 **Paying first before you tell me does not mean you have reserved a slot, I reccomend telling me first before paying.**
 
-Prices can range from 15 robux - 75 robux. Prices will vary depending on the work and can be higher than 75 if the requested work is complicated.
+Prices can range from 20 robux - 100 robux. Prices will vary depending on the work and can be higher than 100 if the requested work is complicated.
 
 ## Contact
 You can contact me via Discord, DevForum Direct Messages, or message me at Roblox directly.
