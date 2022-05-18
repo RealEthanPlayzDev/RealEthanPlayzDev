@@ -2,7 +2,7 @@
 
 Status: **Closed**
 
-Reserved slots: 2 out of 2
+Reserved slots: 0 out of 2
 
 ![Untitled240_20210912204736|690x233, 75%](https://raw.githubusercontent.com/RealEthanPlayzDev/RealEthanPlayzDev/main/RobloxPortfolioAssets/BannerV1.png)
 (Banner made by [@Ra1ph_YT](https://www.roblox.com/users/813606512/profile))
