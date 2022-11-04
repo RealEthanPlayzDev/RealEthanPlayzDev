@@ -1,8 +1,10 @@
 [Check my talent hub page!](https://talent.roblox.com/creators/124648395)
 
-Status: **Closed**
+**IMPORTANT NOTE: I will be most likely unavailable by the end of November due to exams!**
 
-Reserved slots: 0 out of 2
+Status: **Open**
+
+Reserved slots: 1 out of 2
 
 ![Untitled240_20210912204736|690x233, 75%](https://raw.githubusercontent.com/RealEthanPlayzDev/RealEthanPlayzDev/main/RobloxPortfolioAssets/BannerV1.png)
 (Banner made by [@Ra1ph_YT](https://www.roblox.com/users/813606512/profile))
@@ -153,15 +155,15 @@ Timezone: WIB (Waktu Indonesia Barat/Western Indonesian Time)
 ## Payment
 **Paying first before you tell me does not mean you have reserved a slot, I reccomend telling me first before paying.**
 
-Prices can range from 20 robux - 100 robux. Prices will vary depending on the work and can be higher than 100 if the requested work is complicated.
+Prices can range from 20 robux - 200 robux. Prices will vary depending on the work and can be higher than 100 if the requested work is complicated.
 
 ## Contact
 You can contact me via Discord, DevForum Direct Messages, or message me at Roblox directly.
 
 **Important note about contacting from Discord: Please notify me first if you are contacting from Discord, along with your Discord username with tag.**
 
-Discord: ```.イーサン#6627```
+Discord: ```RE#6627```
 
-DevForum: https://devforum.roblox.com/u/itzethanplayz_yt/summary
+DevForum: https://devforum.roblox.com/u/radiatedexodus/summary
 
-Roblox profile: https://www.roblox.com/users/124648395/profile
+Roblox profile: https://www.roblox.com/users/664076365/profile
