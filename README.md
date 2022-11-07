@@ -16,7 +16,6 @@ Additional known programming languages but with lesser knowledge about it: C, C+
 | Active Projects                                                                                 |
 | ----------------------------------------------------------------------------------------------- |
 | [RunLSC](https://github.com/RealEthanPlayzDev/RunLSC)                                           |
-| [Meteorium](https://github.com/RealEthanPlayzDev/Meteorium)                                     |
 | [PojavBot](https://github.com/PojavLauncherTeam/PojavBot)                                       |
 | Meta Script Builder                                                                             |
 | Flügel (BloxExecutor)                                                                           |
@@ -28,6 +27,7 @@ Additional known programming languages but with lesser knowledge about it: C, C+
 | [TouchBlocker](https://github.com/RealEthanPlayzDev/TouchBlocker)            |
 | [LibUsefulUtility](https://github.com/RealEthanPlayzDev/Rblx-LibUsefulUtil/) |
 | [Maze Generation](https://www.roblox.com/games/7425009431/Maze-Generation)   |
+| [Meteorium](https://github.com/RealEthanPlayzDev/Meteorium)                  |
 
 ## Contact me
 See [here](https://realethanplayzdev.github.io/). For my Roblox portfolio, [see here](https://github.com/RealEthanPlayzDev/RealEthanPlayzDev/blob/main/Portfolio.md).
