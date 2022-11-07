@@ -15,6 +15,7 @@ Additional known programming languages but with lesser knowledge about it: C, C+
 ## Projects
 | Active Projects                                                                                 |
 | ----------------------------------------------------------------------------------------------- |
+| [RunLSC](https://github.com/RealEthanPlayzDev/RunLSC)                                           |
 | [Meteorium](https://github.com/RealEthanPlayzDev/Meteorium)                                     |
 | [PojavBot](https://github.com/PojavLauncherTeam/PojavBot)                                       |
 | Meta Script Builder                                                                             |
@@ -24,7 +25,6 @@ Additional known programming languages but with lesser knowledge about it: C, C+
 | Post-poned/inactive projects                                                 |
 | ---------------------------------------------------------------------------- |
 | The Fun Mayhem: The Rise of the new Mayhem                                   |
-| [RunLSC](https://github.com/RealEthanPlayzDev/RunLSC)                        |
 | [TouchBlocker](https://github.com/RealEthanPlayzDev/TouchBlocker)            |
 | [LibUsefulUtility](https://github.com/RealEthanPlayzDev/Rblx-LibUsefulUtil/) |
 | [Maze Generation](https://www.roblox.com/games/7425009431/Maze-Generation)   |
