@@ -15,19 +15,20 @@ Additional known programming languages but with lesser knowledge about it: C, C+
 ## Projects
 | Active Projects                                                                                 |
 | ----------------------------------------------------------------------------------------------- |
+| [amazing](https://www.roblox.com/games/11705221081)                                             |
 | [RunLSC](https://github.com/RealEthanPlayzDev/RunLSC)                                           |
 | [PojavBot](https://github.com/PojavLauncherTeam/PojavBot)                                       |
-| Meta Script Builder                                                                             |
-| Flügel (BloxExecutor)                                                                           |
-| ScriptExecutionContext                                                                          |
+| [Meteorium](https://github.com/RealEthanPlayzDev/Meteorium)                                     |
 
-| Post-poned/inactive projects                                                 |
-| ---------------------------------------------------------------------------- |
-| The Fun Mayhem: The Rise of the new Mayhem                                   |
-| [TouchBlocker](https://github.com/RealEthanPlayzDev/TouchBlocker)            |
-| [LibUsefulUtility](https://github.com/RealEthanPlayzDev/Rblx-LibUsefulUtil/) |
-| [Maze Generation](https://www.roblox.com/games/7425009431/Maze-Generation)   |
-| [Meteorium](https://github.com/RealEthanPlayzDev/Meteorium)                  |
+| Post-poned/inactive projects                                                                                                                               |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| The Fun Mayhem: The Rise of the new Mayhem                                                                                                                 |
+| [TouchBlocker](https://github.com/RealEthanPlayzDev/TouchBlocker)                                                                                          |
+| [LibUsefulUtility](https://github.com/RealEthanPlayzDev/Rblx-LibUsefulUtil/)                                                                               |
+| [Maze Generation](https://www.roblox.com/games/7425009431/Maze-Generation) (discontinued, replaced by [amazing](https://www.roblox.com/games/11705221081)) |
+| Meta Script Builder                                                                                                                                        |
+| Flügel (BloxExecutor)                                                                                                                                      |
+| ScriptExecutionContext                                                                                                                                     |
 
 ## Contact me
 See [here](https://realethanplayzdev.github.io/). For my Roblox portfolio, [see here](https://github.com/RealEthanPlayzDev/RealEthanPlayzDev/blob/main/Portfolio.md).
