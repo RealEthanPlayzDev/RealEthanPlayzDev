@@ -1,20 +1,16 @@
-[Check my talent hub page!](https://talent.roblox.com/creators/124648395)
+Status: **Closed**
 
-**IMPORTANT NOTE: I will be most likely unavailable by the end of November due to exams!**
-
-Status: **Open**
-
-Reserved slots: 1 out of 2
+Reserved slots: 0 out of 2
 
 ![Untitled240_20210912204736|690x233, 75%](https://raw.githubusercontent.com/RealEthanPlayzDev/RealEthanPlayzDev/main/RobloxPortfolioAssets/BannerV1.png)
-(Banner made by [@Ra1ph_YT](https://www.roblox.com/users/813606512/profile))
+(Banner made by [@Rx1ix](https://www.roblox.com/users/1903153728/profile))
 
 ## About Me
 Hello, my name is RadiatedExodus, I am previously known as RealEthanPlayz, I have known about Roblox at 2015 and first made my account at 2016, I started scripting around 2016-2017 when I got interest in Roblox experience development. At this point currently I am still learning C++, C, and the Lua(u) C API.
 
 Notes to consider:
 + I have the rights to decline your request
-+ I am not good in things that involves CFrame or mathematics. (I can try but cannot gurantee, if I fail I will refund)
++ I am not good in things that involves CFrame or mathematics.
 + You must pay half of the agreed price first, then if you are satisfied after the work is done, you must pay me first and then I will send the work.
 + I only accept group payments. Gamepass is also an option however you must also pay the tax.
 + I can work in both Studio or filesystem (Rojo) environment.
