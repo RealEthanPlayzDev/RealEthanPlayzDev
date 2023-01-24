@@ -7,7 +7,7 @@ I am RadiatedExodus, also known as RealEthanPlayz, or RealEthanPlayzDev. I like 
 ![Python](https://img.shields.io/badge/Python-blue.svg?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow.svg?style=for-the-badge&logo=javascript&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-blue.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Java](https://img.shields.io/badge/Java-orange.svg?style=for-the-badge&logo=java&logoColor=white)
+![Java](https://img.shields.io/badge/Java-orange.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-blue.svg?style=for-the-badge&logo=csharp&logoColor=white)
 
 Additional known programming languages but with lesser knowledge about it: C, C++
