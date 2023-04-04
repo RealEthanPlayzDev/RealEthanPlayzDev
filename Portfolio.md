@@ -3,15 +3,14 @@ Status: **Closed**
 Reserved slots: 0 out of 2
 
 ![Untitled240_20210912204736|690x233, 75%](https://raw.githubusercontent.com/RealEthanPlayzDev/RealEthanPlayzDev/main/RobloxPortfolioAssets/BannerV1.png)
-(Banner made by [@Rx1ix](https://www.roblox.com/users/1903153728/profile))
+(Banner made by a friend)
 
 ## About Me
-Hello, my name is RadiatedExodus, I am previously known as RealEthanPlayz, I have known about Roblox at 2015 and first made my account at 2016, I started scripting around 2016-2017 when I got interest in Roblox experience development. At this point currently I am still learning C++, C, and the Lua(u) C API.
+Hello, my name is RadiatedExodus, I was previously known as RealEthanPlayz, I have known about Roblox at 2015 and first made my account at 2016, I started scripting around 2016-2017 when I got interested in Roblox experience development.
 
 Notes to consider:
 + I have the rights to decline your request
 + I am not good in things that involves CFrame or mathematics.
-+ You must pay half of the agreed price first, then if you are satisfied after the work is done, you must pay me first and then I will send the work.
 + I only accept group payments. Gamepass is also an option however you must also pay the tax.
 + I can work in both Studio or filesystem (Rojo) environment.
 
@@ -139,26 +138,22 @@ An (unefficient) module for generating stars on a set of Vector3(s)/number(s) an
 
 ## Availability
 + I may unfortunately refuse if the commision is too large or too hard.
-+ I only accept group payments, t-shirt, and gamepass. (KEEP IN MIND YOU HAVE TO ALSO PAY THE TAX) **I DO NOT ACCEPT PAYMENT TYPES THAT USES REAL LIFE MONEY VALUE SUCH AS USD**
++ I only accept group payments, t-shirt, and gamepass, keep in mind you have to also cover the tax if using gamepass or t-shirt. I do **NOT** accept payment in **REAL VALUE MONEY** such as **USD**.
 + Keep in mind that I cannot work if I have exams or important matters, you will have to wait until I finish those matters if they do happen.
 
-On weekdays, I am available for atleast 1-2 hours of work (if nothing is interrupting me)
+On weekdays, I am available for atleast 1-2 hours of work if there are no interruptions. On weekends, I am available for atleast 1-4 hours of work.
 
-On weekends, I am available for atleast 1-5 hours of work
-
-Timezone: WIB (Waktu Indonesia Barat/Western Indonesian Time)
+Timezone: GMT+7 WIB (Waktu Indonesia Barat)
 
 ## Payment
 **Paying first before you tell me does not mean you have reserved a slot, I reccomend telling me first before paying.**
 
-Prices can range from 20 robux - 200 robux. Prices will vary depending on the work and can be higher than 100 if the requested work is complicated.
+Prices can range from 50 robux - 200 robux. Prices will vary depending on the work and can be higher than 100 if the requested work is complicated.
 
 ## Contact
-You can contact me via Discord, DevForum Direct Messages, or message me at Roblox directly.
+Initial work request must be done via DevForum Direct Messages, message me at Roblox directly, or from email. After I agree, then we can move to Discord if you wish to.
 
-**Important note about contacting from Discord: Please notify me first if you are contacting from Discord, along with your Discord username with tag.**
-
-Discord: ```RE#6627```
+E-Mail: ``radiatedexodus@gmail.com``
 
 DevForum: https://devforum.roblox.com/u/radiatedexodus/summary
 
