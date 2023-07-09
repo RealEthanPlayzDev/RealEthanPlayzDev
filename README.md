@@ -19,7 +19,7 @@ See [here](https://realethanplayzdev.github.io/). For my Roblox portfolio, [see 
 [![JavaScript](https://img.shields.io/badge/JavaScript-yellow.svg?style=for-the-badge&logo=javascript&logoColor=white)](https://www.ecma-international.org/publications-and-standards/standards/ecma-262/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-blue.svg?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org)
 [![Java](https://img.shields.io/badge/Java-orange.svg?style=for-the-badge&logo=openjdk&logoColor=white)](https://en.wikipedia.org/wiki/Java_(programming_language))
-[![C#](https://img.shields.io/badge/C%23-purple.svg?style=for-the-badge&logo=csharp&logoColor=white)](https://en.wikipedia.org/wiki/C_Sharp_(programming_language))
+[![C#](https://img.shields.io/badge/C%23-darkgreen.svg?style=for-the-badge&logo=csharp&logoColor=white)](https://en.wikipedia.org/wiki/C_Sharp_(programming_language))
 
 ## IDEs
 [![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-blue.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white)](https://code.visualstudio.com)
